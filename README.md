@@ -5,6 +5,8 @@
 Bem vindo á Minha Calculadora Cientifica em Javafx. Fiz ela Meio Rapida entao ela Acabou virando uma Calculadora Basica.
 Se Você quiser saber como eu fiz ela, Continue Lendo e Mostrarei Um Pequeno Tutorial de Como voce vai Instalar o Netbeans 8.2 e o jdk 1.8, Como eu desenvolvi a calculadora, Quais videos eu usei de base e tudo que for preciso para vc aprender a fazer o Progama. Esta Calculadora foi Feita Pela "Empresa" Formada por 4 Estudantes. O Nome da Empresa é: MEPD. e o Nome dos Integrantes é: Davi brandao, Francisco Erick, Paulo Roberto, Mell Oliveira.
 
+Calculadora Feita por: Davi Brandao - Caroço
+
 # O que cada Butão Faz:
 
 Os Botãos de Numeros como: 1,2,4,7,8,0. Apos serem apertados, Fazem os Butoes aparecerem no Visor.
