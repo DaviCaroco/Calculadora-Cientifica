@@ -11,11 +11,13 @@ Os Botãos de Numeros como: 1,2,4,7,8,0. Apos serem apertados, Fazem os Butoes a
 
 Os Operadores Basicos como: +,-,/,x. Apos serem Apertados, Fazem as Operações Correspondentes: Somar,Subtrair,Dividir e Multiplicar.
 
+Os Operadores Delete como: C e Del. Apos serem Apertados, Fazem as Operações Correspondentes: Apaga tudo que tiver no Visor e Apaga um Numero ou Operador no visor.
+
 Os Operadores Diferentes como: Ans,%,sqrt,x^2 ou x^3,exp,log. Apos serem Apertados, Fazem as Operações Correspondentes: Repete o Numero Calculado Anterior, Porcentagem, RaizQuadrada, Elavado a 2 Potencia, Elevado a 3 Potencia, exponencial, Logaritimo.
 
 Os Operadores Trigonometricos como: Seno, Cosseno, Tangente, Sinh, Cosh, Tanh. Apos serem Apertados, Fazem as Operações Correspondentes: Seno, Cosseno, Tangente, Cosecante, Secante, Cotangente.
 
-ps: Alguns botoes Nao Prestão, como: Os operadores Trigonometricos, sqrt, x^2 ou x^3,exp,log. Acho que sao esses.
+ps: Alguns botoes Nao Prestão, como: Os Operadores Trigonometricos, sqrt, x^2 ou x^3,exp,log. Acho que sao esses.
 
 # Tutorial De Como Baixar o Jdk e o NetBeans:
 
