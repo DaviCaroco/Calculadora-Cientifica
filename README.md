@@ -13,6 +13,8 @@ Os Operadores Basicos como: +,-,/,x. Apos serem Apertados, Fazem as Operações 
 
 Os Operadores Diferentes como: Ans,%,sqrt,x^2 ou x^3,exp,log. Apos serem Apertados, Fazem as Operações Correspondentes: Repete o Numero Calculado Anterior, Porcentagem, RaizQuadrada, Elavado a 2 Potencia, Elevado a 3 Potencia, exponencial, Logaritimo.
 
+Os Operadores Trigonometricos como: Seno, Cosseno, Tangente, Sinh, Cosh, Tanh. Apos serem Apertados, Fazem as Operações Correspondentes: Seno, Cosseno, Tangente, Cosecante, Secante, Cotangente.
+
 # Tutorial De Como Baixar o Jdk e o NetBeans:
 
 Para Você Baixar o jdk 1.8, Primeiro vc terá que criar uma conta Oracle. Você Pesquisa: "Jdk 1.8 dowload". Entre no Site da Oracle e clique para Baixar e depois de Baixar, Extraia o Aquivo e depois Instale o Jdk 1.8. 
