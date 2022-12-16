@@ -15,6 +15,8 @@ Os Operadores Diferentes como: Ans,%,sqrt,x^2 ou x^3,exp,log. Apos serem Apertad
 
 Os Operadores Trigonometricos como: Seno, Cosseno, Tangente, Sinh, Cosh, Tanh. Apos serem Apertados, Fazem as Operações Correspondentes: Seno, Cosseno, Tangente, Cosecante, Secante, Cotangente.
 
+ps: Alguns botoes Nao Prestão, como: Os operadores Trigonometricos, sqrt, x^2 ou x^3,exp,log. Acho que sao esses.
+
 # Tutorial De Como Baixar o Jdk e o NetBeans:
 
 Para Você Baixar o jdk 1.8, Primeiro vc terá que criar uma conta Oracle. Você Pesquisa: "Jdk 1.8 dowload". Entre no Site da Oracle e clique para Baixar e depois de Baixar, Extraia o Aquivo e depois Instale o Jdk 1.8. 
